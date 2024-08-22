@@ -1,3 +1,9 @@
+import azure.cognitiveservices.speech as speech_sdk
+
+ai_key ="Azure AI Servicer -Key"
+ai_region ="Azure AI Service - Region"
+
+
 #Speech to Text
 def speechrec():
     command = ''
